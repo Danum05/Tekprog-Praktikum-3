@@ -14,9 +14,9 @@ import java.util.Scanner;
  * Input format	: Satu baris berupa plat number untuk 4 mobil
  * Output format: Satu baris Berupa tulisan “Jalan” atau “Berhenti
  * 
- * @author Nayara Saffa
+ * @author Danu Mahesa
  * @version 1.0
- * @since 2022-02-19
+ * @since 2022-02-20
  */
 
 public class BukaTutupJalan {
